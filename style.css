@@ -28,8 +28,14 @@ img {
   margin: 20px;
   display: inline-block;
 }
-
-h1 {
+#letter{
+  width:400px;
+  height:auto;
+  border-radius: 15%;
+  margin: 20px;
+  display: inline-block;
+}
+h1, h3 {
   color: black;
   margin: 0;
 }
