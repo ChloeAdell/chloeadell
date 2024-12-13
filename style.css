@@ -4,7 +4,7 @@ body {
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
   color: #001F54;
-  background-color: #F3DAD8; 
+  background-color: #ffffff; 
   margin: 0;
   padding: 0;
 }
@@ -30,7 +30,7 @@ img {
 }
 
 h1 {
-  color: navy;
+  color: black;
   margin: 0;
 }
 
