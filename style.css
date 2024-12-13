@@ -1,0 +1,27 @@
+/* STYLE SECTIONING TAGS */
+body {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  color: #001F54;
+  background-color: #F3DAD8; 
+}
+header{
+  color: #001F54;
+  background-color:#F4C3C2; 
+}
+/* STYLE TEXT */
+p {
+  color:#001F54;
+}
+img {
+  max-width: 10%;
+  max-height: 10%;
+  border-radius: 15%;
+}
+h1 {
+  color: navy;
+}
+
+/* STYLE IMAGES */
+
+/* STYLE NAV BAR */
